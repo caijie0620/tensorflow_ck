@@ -1,2 +1,6 @@
-data/
-image_lists/
+*.png
+*.jpg
+*.jpeg
+*.txt
+*~
+*.pyc
